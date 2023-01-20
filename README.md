@@ -1,6 +1,6 @@
 # namer_app
 
-A new Flutter project.
+Nombre: Raúl Alejandro Tenorio Mendieta.
 
 ## Getting Started
 
